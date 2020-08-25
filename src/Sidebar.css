@@ -5,6 +5,11 @@
     max-width: 260px;
 }
 
+.sidebar > hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(37, 36, 36);
+}
 .sidebar__header {
     display: flex;
     border-bottom: 1px solid rgb(37, 36, 36);
