@@ -1,5 +1,6 @@
 .sidebar {
     color: white;
+    flex: 0.3;
     background-color: var(--letschat-color);
     border-top: 1px solid rgb(37, 36, 36);
     max-width: 260px;
